@@ -1,15 +1,15 @@
 ## Task15
 
-This assignment introduces the following HTML elements, CSS selectors, & CSS properties. You should use every one of these elements, selectors, & properties to complete the assignment.
+This assignment introduces the following HTML elements, CSS selectors, & CSS properties. You should use every one of these elements, selectors, & properties to complete the assignment:
 
 ```
 - link
-- CSS selectors
+CSS selectors
  - type
  - class
  - descendant
  - selector list
-- CSS properties
+CSS properties
   - background-color
   - border-bottom
   - color
@@ -20,8 +20,9 @@ This assignment introduces the following HTML elements, CSS selectors, & CSS pro
 
 # Setting up
 
-Create a new folder in the current projects & call it **css**. In the **css** folder, create a file called **main-01.css**.
+- Create a new folder in the current projects & call it **css**. In the **css** folder, create a file called **main-01.css**.
 Link **main-01.css** to **chartreuse-06.html**, **index-03.html**, & **tertiary-02.html**
+- Review the slides we have covered in the last lecture as well as the content provided at [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 # Specific CSS
 
