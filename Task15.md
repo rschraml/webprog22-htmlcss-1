@@ -1,21 +1,21 @@
 ## Task15
 
 This assignment introduces the following HTML elements, CSS selectors, & CSS properties. You should use every one of these elements, selectors, & properties to complete the assignment.
-HTML elements
+
 ```
-- [ ] link
+- link
 - CSS selectors
- - [ ] type
- - [ ] class
- - [ ] descendant
- - [ ] selector list
+ - type
+ - class
+ - descendant
+ - selector list
 - CSS properties
-  - [ ] background-color
-  - [ ] border-bottom
-  - [ ] color
-  - [ ] font-family
-  - [ ] font-weight
-  - [ ] margin-bottom
+  - background-color
+  - border-bottom
+  - color
+  - font-family
+  - font-weight
+  - margin-bottom
 ```
 
 # Setting up
