@@ -1,12 +1,11 @@
 # Task17
 
-- Create a new folder named ** colostomo-home-page**.
-
+- Create a new folder named **colostomo-home-page**.
 - Reproduce this webpage [Colostomo Inc. Home Page](Colostomo-Inc.pdf). Ignore the large white margin around the edge of the PDF — your version of the Colostomo Inc. Home Page should go right to the edge of the browser’s viewport, i.e. use the total width.
 
 - The **<title>** of the webpage is: Colostomo Inc.
 
-# How to make a block go all the way to the edge of the viewport (or any container):
+## How to make a block go all the way to the edge of the viewport (or any container):
   - Set a **margin** to a negative value (e.g., -1em)
   - Set the padding to a positive value equal to the negative value (e.g., 1em)
 
@@ -18,4 +17,5 @@
   - The second font should be a common font found on most computers - Microsoft’s Core Fonts for the Web [https://de.wikipedia.org/wiki/Core_fonts_for_the_Web](https://de.wikipedia.org/wiki/Core_fonts_for_the_Web)
   - The third font should be a generic font family.
 
-- For font sizing, use the method that is discussed in the font-size section of CSS - Typography by Scott Granneman ((slides PDF)[https://granneman.com/downloads/web-dev/CSS-Typography.pdf] & (notes)[https://www.granneman.com/downloads/web-dev/CSS-Typography.txt]): px, then rem, then em—in the right locations. Browse through the slides to get an overview!
+- For font sizing, use the method that is discussed in the font-size section of CSS - Typography by Scott Granneman:
+  - [slides PDF](https://granneman.com/downloads/web-dev/CSS-Typography.pdf) & px, then rem, then em—in the right locations. Browse through the slides to get an overview!
