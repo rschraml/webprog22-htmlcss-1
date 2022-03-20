@@ -1,4 +1,4 @@
-# Task17
+# Task16
 
 ## Do the following:
   - [] duplicate **chartreuse-06.html** & rename it to **chartreuse-07.html**

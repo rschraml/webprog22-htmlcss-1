@@ -5,7 +5,6 @@ Complete the following tasks one after the other:
 - [Task15](Task15.md)
 - [Task16](Task16.md)
 - [Task17](Task17.md)
-- [Task18](Task18.md)
 
 These assignments were slightly adopted based on the content provided by:
 
